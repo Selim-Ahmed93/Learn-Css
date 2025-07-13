@@ -56,7 +56,7 @@ This project is part of my CSS Mastery journey, focusing on typography, layout s
 
 ## 📸 live link
 
-( https://selim-ahmed93.github.io/Learn-Css/)
+ https://selim-ahmed93.github.io/Learn-Css/
 
 
 ---
